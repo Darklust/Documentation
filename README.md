@@ -1,5 +1,7 @@
 Documentation
 =============
+# GO TO THE WIKI PAGE. THE GIT BRANCHES ARE FOR ARCHIVES.
+
 PocketMine-MP Documentation allows you to refer to the Documentation to find APIs instead of having to browse through the code to find different APIs. This is what I had to do and I(sekjun9878, the author of the documentation) would like to prevent other people having to do the same thing. 
 
 Each API version is defined by the release of PocketMine.
